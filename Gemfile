@@ -45,6 +45,7 @@ gem "bootsnap", require: false
 gem 'devise'
 gem 'bootstrap', '~> 5.1.3'
 gem 'devise-bootstrap-views', :path => "./devise-bootstrap-views-master"
+gem 'iex-ruby-client'
 
 # Use Sass to process CSS
 # gem "sassc-rails"
